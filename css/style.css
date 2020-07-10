@@ -10,6 +10,10 @@
   border-radius: 100px;
 }
 
+.navbar-custom {
+  background-color: #000;
+}
+
 #social {
   background-color: rgba(255, 255, 255, 0.3);
 }
